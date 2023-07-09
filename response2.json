@@ -1,0 +1,249 @@
+{
+  "count": 27,
+  "hits": [
+    {
+      "id": "Microsoft",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Microsoft",
+      "indeed_relative_url": "/cmp/Microsoft",
+      "link": "/company/Microsoft?locality=us",
+      "locality": "us",
+      "name": "Microsoft",
+      "rank": 1
+    },
+    {
+      "id": "Vmc-At-Microsoft",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Vmc-At-Microsoft",
+      "indeed_relative_url": "/cmp/Vmc-At-Microsoft",
+      "link": "/company/Vmc-At-Microsoft?locality=us",
+      "locality": "us",
+      "name": "VMC at Microsoft",
+      "rank": 2
+    },
+    {
+      "id": "Cbre-Microsoft",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Cbre-Microsoft",
+      "indeed_relative_url": "/cmp/Cbre-Microsoft",
+      "link": "/company/Cbre-Microsoft?locality=us",
+      "locality": "us",
+      "name": "CBRE/Microsoft",
+      "rank": 3
+    },
+    {
+      "id": "Microsoft-Via-Insight-Global",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Microsoft-Via-Insight-Global",
+      "indeed_relative_url": "/cmp/Microsoft-Via-Insight-Global",
+      "link": "/company/Microsoft-Via-Insight-Global?locality=us",
+      "locality": "us",
+      "name": "Microsoft via Insight Global",
+      "rank": 4
+    },
+    {
+      "id": "Microsoft-Hcl-America",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Microsoft-Hcl-America",
+      "indeed_relative_url": "/cmp/Microsoft-Hcl-America",
+      "link": "/company/Microsoft-Hcl-America?locality=us",
+      "locality": "us",
+      "name": "Microsoft/HCL America",
+      "rank": 5
+    },
+    {
+      "id": "Unisys-At-Microsoft",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Unisys-At-Microsoft",
+      "indeed_relative_url": "/cmp/Unisys-At-Microsoft",
+      "link": "/company/Unisys-At-Microsoft?locality=us",
+      "locality": "us",
+      "name": "UNISYS at Microsoft",
+      "rank": 6
+    },
+    {
+      "id": "Alorica---Microsoft-Bing-Ads",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Alorica---Microsoft-Bing-Ads",
+      "indeed_relative_url": "/cmp/Alorica---Microsoft-Bing-Ads",
+      "link": "/company/Alorica---Microsoft-Bing-Ads?locality=us",
+      "locality": "us",
+      "name": "Alorica - Microsoft Bing Ads",
+      "rank": 7
+    },
+    {
+      "id": "International-Association-of-Microsoft-Channel-Partners",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/International-Association-of-Microsoft-Channel-Partners",
+      "indeed_relative_url": "/cmp/International-Association-of-Microsoft-Channel-Partners",
+      "link": "/company/International-Association-of-Microsoft-Channel-Partners?locality=us",
+      "locality": "us",
+      "name": "International Association of Microsoft Channel Partners",
+      "rank": 8
+    },
+    {
+      "id": "The-Novo-By-Microsoft",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/The-Novo-By-Microsoft",
+      "indeed_relative_url": "/cmp/The-Novo-By-Microsoft",
+      "link": "/company/The-Novo-By-Microsoft?locality=us",
+      "locality": "us",
+      "name": "The Novo by Microsoft",
+      "rank": 9
+    },
+    {
+      "id": "Microsoft-(mvt)",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Microsoft-(mvt)",
+      "indeed_relative_url": "/cmp/Microsoft-(mvt)",
+      "link": "/company/Microsoft-(mvt)?locality=us",
+      "locality": "us",
+      "name": "Microsoft (MVT)",
+      "rank": 10
+    },
+    {
+      "id": "Flexasoft-Hcl-Microsoft",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Flexasoft-Hcl-Microsoft",
+      "indeed_relative_url": "/cmp/Flexasoft-Hcl-Microsoft",
+      "link": "/company/Flexasoft-Hcl-Microsoft?locality=us",
+      "locality": "us",
+      "name": "Flexasoft/HCL/Microsoft",
+      "rank": 11
+    },
+    {
+      "id": "Mindtree-At-Microsoft",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Mindtree-At-Microsoft",
+      "indeed_relative_url": "/cmp/Mindtree-At-Microsoft",
+      "link": "/company/Mindtree-At-Microsoft?locality=us",
+      "locality": "us",
+      "name": "MindTree at Microsoft",
+      "rank": 12
+    },
+    {
+      "id": "Zt-Company-At-Microsoft-in-Mwh",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Zt-Company-At-Microsoft-in-Mwh",
+      "indeed_relative_url": "/cmp/Zt-Company-At-Microsoft-in-Mwh",
+      "link": "/company/Zt-Company-At-Microsoft-in-Mwh?locality=us",
+      "locality": "us",
+      "name": "ZT COMPANY AT MICROSOFT IN MWH",
+      "rank": 13
+    },
+    {
+      "id": "Microsoft-Systems-&-Software-Academy-(mssa)",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Microsoft-Systems-&-Software-Academy-(mssa)",
+      "indeed_relative_url": "/cmp/Microsoft-Systems-&-Software-Academy-(mssa)",
+      "link": "/company/Microsoft-Systems-&-Software-Academy-(mssa)?locality=us",
+      "locality": "us",
+      "name": "Microsoft Systems & Software Academy (MSSA)",
+      "rank": 14
+    },
+    {
+      "id": "N3-Microsoft",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/N3-Microsoft",
+      "indeed_relative_url": "/cmp/N3-Microsoft",
+      "link": "/company/N3-Microsoft?locality=us",
+      "locality": "us",
+      "name": "N3/Microsoft",
+      "rank": 15
+    },
+    {
+      "id": "Renton-Prep-Christian-School-Microsoft-Showcase-School",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Renton-Prep-Christian-School-Microsoft-Showcase-School",
+      "indeed_relative_url": "/cmp/Renton-Prep-Christian-School-Microsoft-Showcase-School",
+      "link": "/company/Renton-Prep-Christian-School-Microsoft-Showcase-School?locality=us",
+      "locality": "us",
+      "name": "Renton Prep Christian School: Microsoft Showcase School",
+      "rank": 16
+    },
+    {
+      "id": "Crossover-Health---Microsoft-Living-Well-Health-Center",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Crossover-Health---Microsoft-Living-Well-Health-Center",
+      "indeed_relative_url": "/cmp/Crossover-Health---Microsoft-Living-Well-Health-Center",
+      "link": "/company/Crossover-Health---Microsoft-Living-Well-Health-Center?locality=us",
+      "locality": "us",
+      "name": "Crossover Health - Microsoft Living Well Health Center",
+      "rank": 17
+    },
+    {
+      "id": "Microsoft---Turn-10-Studios",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Microsoft---Turn-10-Studios",
+      "indeed_relative_url": "/cmp/Microsoft---Turn-10-Studios",
+      "link": "/company/Microsoft---Turn-10-Studios?locality=us",
+      "locality": "us",
+      "name": "Microsoft - Turn 10 Studios",
+      "rank": 18
+    },
+    {
+      "id": "Randstad---Microsoft",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Randstad---Microsoft",
+      "indeed_relative_url": "/cmp/Randstad---Microsoft",
+      "link": "/company/Randstad---Microsoft?locality=us",
+      "locality": "us",
+      "name": "Randstad - Microsoft",
+      "rank": 19
+    },
+    {
+      "id": "Microsoft-(mindtree)",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Microsoft-(mindtree)",
+      "indeed_relative_url": "/cmp/Microsoft-(mindtree)",
+      "link": "/company/Microsoft-(mindtree)?locality=us",
+      "locality": "us",
+      "name": "Microsoft (Mindtree)",
+      "rank": 20
+    },
+    {
+      "id": "Microsoft-Theater---Levy-Services",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Microsoft-Theater---Levy-Services",
+      "indeed_relative_url": "/cmp/Microsoft-Theater---Levy-Services",
+      "link": "/company/Microsoft-Theater---Levy-Services?locality=us",
+      "locality": "us",
+      "name": "Microsoft Theater - Levy Services",
+      "rank": 21
+    },
+    {
+      "id": "Cbre---Microsoft-Account",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Cbre---Microsoft-Account",
+      "indeed_relative_url": "/cmp/Cbre---Microsoft-Account",
+      "link": "/company/Cbre---Microsoft-Account?locality=us",
+      "locality": "us",
+      "name": "CBRE - MICROSOFT ACCOUNT",
+      "rank": 22
+    },
+    {
+      "id": "Microsoft--insight-Global",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Microsoft--insight-Global",
+      "indeed_relative_url": "/cmp/Microsoft--insight-Global",
+      "link": "/company/Microsoft--insight-Global?locality=us",
+      "locality": "us",
+      "name": "Microsoft-Insight Global",
+      "rank": 23
+    },
+    {
+      "id": "Microsoft-Dynamics-Partner-1",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Microsoft-Dynamics-Partner-1",
+      "indeed_relative_url": "/cmp/Microsoft-Dynamics-Partner-1",
+      "link": "/company/Microsoft-Dynamics-Partner-1?locality=us",
+      "locality": "us",
+      "name": "Microsoft Dynamics Partner",
+      "rank": 24
+    },
+    {
+      "id": "Eoh-Microsoft-Coastal",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Eoh-Microsoft-Coastal",
+      "indeed_relative_url": "/cmp/Eoh-Microsoft-Coastal",
+      "link": "/company/Eoh-Microsoft-Coastal?locality=us",
+      "locality": "us",
+      "name": "EOH Microsoft Coastal",
+      "rank": 25
+    },
+    {
+      "id": "Compass-Microsoft",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Compass-Microsoft",
+      "indeed_relative_url": "/cmp/Compass-Microsoft",
+      "link": "/company/Compass-Microsoft?locality=us",
+      "locality": "us",
+      "name": "COMPASS MICROSOFT",
+      "rank": 26
+    },
+    {
+      "id": "Alorica",
+      "indeed_absolute_url": "https://www.indeed.com/cmp/Alorica",
+      "indeed_relative_url": "/cmp/Alorica",
+      "link": "/company/Alorica?locality=us",
+      "locality": "us",
+      "name": "Alorica",
+      "rank": 27
+    }
+  ],
+  "indeed_final_url": "https://www.indeed.com/companies/search?from=discovery-cmp-search&q=Microsoft"
+}
